@@ -20,7 +20,7 @@ $(document).ready(function(){
             pauseOnHover:false,
             dots:false,
             arrows:true,
-            slidesToShow:2,
+            slidesToShow:3,
             centerMode:true
             
             });
