@@ -162,7 +162,7 @@ header .headerBox .greeting_m p{font-family: 'S-CoreDream-6Bold'; font-size: 2.5
 .sec1 .sec1Box .me{position: absolute; width: 170px; height: 170px; left: 50%;transform: translateX(-50%); top: 109px;}
 .sec1 .sec1Box .name{position: absolute;  left: 50%;transform: translateX(-50%); top: 302px; font-family: 'S-CoreDream-5Medium'; font-size: 1.7rem;}
 .sec1 .sec1Box .pt{display: none;}
-.sec1 .sec1Box .pt_m{ display: block; position:absolute; width: 80%;  left: 50%;transform: translateX(-50%); top: 430px; font-size: 1rem; text-align: center;}
+.sec1 .sec1Box .pt_m{ display: block; position:absolute; width: 80%;  left: 50%;transform: translateX(-50%); top: 430px; font-size: .9rem; text-align: center;}
 .sec1 .sec1Box .pt_m strong{font-size: 1.2rem; font-weight: bold;}
 
 /* sec2 */
@@ -232,8 +232,6 @@ footer .footerBox ul{position: absolute; left: 50%; transform: translateX(-50%);
 footer .footerBox ul li:first-child{font-family: 'S-CoreDream-3Light' ; font-size: 1.3rem; text-align: center;}
 footer .footerBox ul li:first-child a{text-decoration: none; color: #fff;}
 footer .footerBox ul li:first-child a strong{font-family:  'S-CoreDream-6Bold';}
-
-footer .footerBox ul li:first-child a:hover{text-decoration:underline}
 
 
 footer .footerBox ul li:last-child{font-size: .7rem; color: #fff; margin-top: 280px;width: 170px;}
