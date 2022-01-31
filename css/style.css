@@ -236,7 +236,7 @@ footer .footerBox ul li:first-child a strong{font-family:  'S-CoreDream-6Bold';}
 
 footer .footerBox ul li:last-child{font-size: .7rem; color: #fff; margin-top: 280px;width: 170px;}
 
-footer .footerBox .bubble{width: 356px; height: 72px; background: url(../img/bubble.png)no-repeat; filter: drop-shadow(0px 5px 5px #000); position: absolute; right: 10%; top: 210px;}
-footer .footerBox .bubble p{text-align: center; font-size: 1.2rem; font-weight: bold; letter-spacing: 2px; line-height: 45px;}
+footer .footerBox .bubble{width: 300px; height: 72px; background: url(../img/bubble.png)no-repeat; filter: drop-shadow(0px 5px 5px #000); position: absolute; right: 10%; top: 210px; background-size: 300px;}
+footer .footerBox .bubble p{text-align: center; font-size: 1.2rem; font-weight: bold; letter-spacing: 2px; line-height: 38px;}
 footer .footerBox img{position: absolute; right: 3%; top:300px;}
 } 
